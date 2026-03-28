@@ -6,8 +6,6 @@ This lab teaches you how to exploit SQL injection vulnerabilities in a web appli
 - Exploit SQL injection in UPDATE statements (modify database)
 - Implement prepared statements as defense
 
----
-
 ## Setup
 
 **NOTE:** Have a complete Lab Setup, Visit https://seedsecuritylabs.org/
