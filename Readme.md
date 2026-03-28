@@ -1,4 +1,4 @@
-# SQL Injection Attack Lab - Quick Guide
+# SQL Injection Attack Lab
 This lab teaches you how to exploit SQL injection vulnerabilities in a web application and how to defend against them using prepared statements.
 
 ## Objectives
